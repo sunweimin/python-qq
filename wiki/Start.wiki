@@ -15,7 +15,7 @@
 
 == 项目列表 ==        
 ||'''项目缩写'''||'''语言'''||'''项目说明'''||'''管理员'''||        
-||[http://trac.easiest.cn/cgi-bin/trac.cgi/browser/Python-QQ Python-QQ]||Python||基于Python语言的客户端||梅劲松||  
+||[http://code.google.com/p/python-qq  Python-QQ]||Python||基于Python语言的客户端||梅劲松||  
 
 == 项目成员列表 ==
 ||wansongying||wansongying@hotmail.com||目前主要学习python，想有机会参与一些python项目||完全是个人喜好，呵呵！||  

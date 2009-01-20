@@ -1,17 +1,3 @@
 #labels Python-QQ,Python,QQ,梅劲松,依赛特
-= 武汉依赛特通信技术发展有限公司开源项目管理中心 =
+== 武汉依赛特通信技术发展有限公司开源项目管理中心 ==
  * Python-QQ：Python语言实现的QQ客户端。根据QQ协议，使用Python来实现一个跨平台的客户端。充分发挥Python语言快速开发和跨平台运行的优点，特别是让unix用户在使用QQ的时候又多一个选择。        
-           
-          
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages

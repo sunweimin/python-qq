@@ -1,9 +1,9 @@
-#labels Python-QQ,Python,QQ
-= 武汉依赛特通信技术发展有限公司开源项目管理中心 = 
+#labels Python-QQ,Python,QQ,梅劲松,依赛特
+== 武汉依赛特通信技术发展有限公司开源项目管理中心 == 
  * Python-QQ：Python语言实现的QQ客户端。根据QQ协议，使用Python来实现一个跨平台的客户端。充分发挥Python语言快速开发和跨平台运行的优点，特别是让unix用户在使用QQ的时候又多一个选择。        
            
             
-== SVN 使用Tip ==        
+=== SVN 使用Tip ===        
  * 按照 SVN 官方建议的代码组织方式来管理        
  * 每个模块分三类目录，代表不同代码基线        
  {{{        
@@ -11,7 +11,7 @@
  Socket-QQ/    为辅助版本|纯Python支持.        
  Python-QQ/    为主码线版本,Python和Twisted支持.        
  }}}        
-== 项目列表 ==        
+=== 项目列表 ===        
 ||'''项目缩写'''||'''语言'''||'''项目说明'''||'''管理员'''||        
 ||[http://trac.easiest.cn/cgi-bin/trac.cgi/browser/Python-QQ Python-QQ]||Python||基于Python语言的客户端||梅劲松||        
           

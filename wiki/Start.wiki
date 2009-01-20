@@ -81,12 +81,17 @@
 ||Donne||fanglinyuan@163.com||目前也在使用python做自动化测试框架,希望多结交Python朋友，多些交流.||无|| 
 
 == 项目邮件列表及讨论组 ==        
-  [http://groups-beta.google.com/group/python-qq/ Google提供的邮件列表及讨论组]        
+  [http://groups.google.com/group/python-qq/ Google提供的邮件列表及讨论组]        
 == 错误反馈页面 ==        
-  这里能反馈吗？       
- = 维护 =        
-       
+  这里的代码托管能反馈吗？       
+= 维护 =        
+   * 2009年1月16日，今天终于从原来的trac服务器上将Python-QQ的代码拷贝出来了。恢复到google上，看了一下，最后一次更新代码是2006年10月8日。
    * 梅劲松::20050729 创立环境... 
+
+
+[http://www.easiest.cn  湖北依赛特]
+
+
 
 Add your content here.
 
